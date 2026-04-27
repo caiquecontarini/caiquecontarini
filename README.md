@@ -6,7 +6,7 @@
 
 *"Transformando complexidade em sistemas autônomos de alta conversão."*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiquecontarini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caiquewm)
 [![Site](https://img.shields.io/badge/Nextron.site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nextron.site)
 
 </div>
