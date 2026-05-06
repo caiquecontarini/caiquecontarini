@@ -75,28 +75,14 @@ Desenvolvedor Full-Stack com **10+ anos de experiência** construindo sistemas w
 
 ### 📚 Open Source & Knowledge
 
-Documentação completa em GitHub Pages:
-
-| Repositório | Descrição | Docs |
-|------------|-----------|------|
-| **[reversa](https://github.com/caiquecontarini/reversa)** | Framework de engenharia reversa | [📖](https://caiquecontarini.github.io/reversa/) |
-| **[prompts-library](https://github.com/caiquecontarini/prompts-library)** | 50+ prompts premium para IA | [📖](https://caiquecontarini.github.io/prompts-library/) |
-| **[chatgpt-prompts](https://github.com/caiquecontarini/chatgpt-prompts)** | 36 personas para ChatGPT | [📖](https://caiquecontarini.github.io/chatgpt-prompts/) |
-| **[llm-council](https://github.com/caiquecontarini/llm-council)** | Multi-IA decision making | [📖](https://caiquecontarini.github.io/llm-council/) |
-| **[skill-audit](https://github.com/caiquecontarini/skill-audit)** | QA para skills de IA | [🔗](https://github.com/caiquecontarini/skill-audit) |
-| **[second-brain-amora](https://github.com/caiquecontarini/second-brain-amora)** | Memória persistente para agentes | [🔗](https://github.com/caiquecontarini/second-brain-amora) |
-
----
-
-## 🔧 Snippets & Gists
-
-Dicas técnicas prontas pra usar:
-
-- [🧠 Chain of Thought Pattern](https://gist.github.com/caiquecontarini/2d35ee32bed07a2ad2cddc51d1acbbc6) — Prompt engineering profissional
-- [⚡ Next.js Core Web Vitals](https://gist.github.com/caiquecontarini/42b3d12d4f3e18280690f0c800874c5a) — Performance optimization
-- [🤖 Multi-Agent Orchestration](https://gist.github.com/caiquecontarini/fe3449ba56909312ea09c0b0fc26e1a6) — AI systems pattern
-- [📡 Supabase Real-time](https://gist.github.com/caiquecontarini/dd72b58a9bb0eb289ae6e6a97a0ec123) — Real-time data sync
-- [🚀 Vercel CI/CD Pipeline](https://gist.github.com/caiquecontarini/7ce9dab363ad28cd5f793428ddff2419) — Production deployment
+| Repositório | Descrição |
+|------------|-----------|
+| **[reversa](https://github.com/caiquecontarini/reversa)** | Framework de engenharia reversa |
+| **[prompts-library](https://github.com/caiquecontarini/prompts-library)** | 50+ prompts premium para IA |
+| **[chatgpt-prompts](https://github.com/caiquecontarini/chatgpt-prompts)** | 36 personas para ChatGPT |
+| **[llm-council](https://github.com/caiquecontarini/llm-council)** | Multi-IA decision making |
+| **[skill-audit](https://github.com/caiquecontarini/skill-audit)** | QA para skills de IA |
+| **[second-brain-amora](https://github.com/caiquecontarini/second-brain-amora)** | Memória persistente para agentes |
 
 ---
 
