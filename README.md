@@ -41,19 +41,12 @@ Estou construindo um **ecossistema privado de inteligência artificial** — o V
 
 <div align="center">
 
-**GitHub Stats**
-<br/>
+<a href="https://github.com/caiquecontarini">
+  <img height="200em" src="https://streak-stats.demolab.com?user=caiquecontarini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 
 <a href="https://github.com/caiquecontarini">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=caiquecontarini&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" />
-</a>
-
-<a href="https://github.com/caiquecontarini?tab=repositories">
-  <img height="180em" src="https://img.shields.io/badge/Repositórios-11-0077B5?style=for-the-badge&logo=github" alt="Total Repositories" />
-</a>
-
-<a href="https://github.com/caiquecontarini?tab=followers">
-  <img height="180em" src="https://img.shields.io/github/followers/caiquecontarini?style=for-the-badge&logo=github" alt="GitHub Followers" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=caiquecontarini&theme=tokyonight&hide_border=true" alt="GitHub Activity" />
 </a>
 
 </div>
