@@ -41,9 +41,9 @@ Estou construindo um **ecossistema privado de inteligência artificial** — o V
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiquecontarini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiquecontarini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/caiquecontarini)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecontarini&layout=compact&theme=tokyonight&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecontarini&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/caiquecontarini)
 
 </div>
 
@@ -55,6 +55,7 @@ Estou construindo um **ecossistema privado de inteligência artificial** — o V
 - 🧠 **[Second Brain Amora](https://github.com/caiquecontarini/second-brain-amora)** — Sistema de memória persistente para agentes de IA
 - 🏛️ **[LLM Council](https://github.com/caiquecontarini/llm-council)** — Tomada de decisão com conselho de múltiplas IAs
 - 🔍 **[Skill Audit](https://github.com/caiquecontarini/skill-audit)** — Controle de qualidade para skills de agentes
+- 🔄 **[Reversa](https://github.com/caiquecontarini/reversa)** — Framework de engenharia reversa para gerenciamento de features
 
 ---
 
