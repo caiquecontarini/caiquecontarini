@@ -41,9 +41,13 @@ Estou construindo um **ecossistema privado de inteligência artificial** — o V
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiquecontarini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/caiquecontarini)
+<a href="https://github.com/caiquecontarini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquecontarini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecontarini&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/caiquecontarini)
+<a href="https://github.com/caiquecontarini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecontarini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
 </div>
 
