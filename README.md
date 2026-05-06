@@ -11,11 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nextron.site@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiquecontarini)
 
-<br/>
-
-🇧🇷 **Marataízes, ES · Brasil**  
-🇮🇹 **Passaporte Europeu (Cidadão Italiano)**
-
 </div>
 
 ---
@@ -158,21 +153,9 @@ Desenvolvedor Full-Stack com **10+ anos de experiência** construindo sistemas w
 
 ## 📌 Highlights
 
-> 💎 **"Transformo requisitos complexos em produtos digitais que geram receita"**
+> 💎 **"Construindo arquiteturas digitais que escalam"**
 
-### 🚀 Velocidade de Entrega
-
-- Landing page: **3 dias**
-- MVP completo: **1-2 semanas**
-- Sistema com IA: **2-3 semanas**
-
-### 📊 Resultados Comprovados
-
-- Clientes com **ROI > 3x** em campanhas
-- Dashboards com **99.9% uptime**
-- Sistemas processando **100k+ requisições/dia**
-
-### 🔐 Qualidade & Segurança
+### 📊 Qualidade & Excelência
 
 - ✅ TypeScript em 100% do código
 - ✅ Testes automatizados
